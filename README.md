@@ -1,6 +1,6 @@
 # Biblioteca Digital UniFECAF
 
-Projeto acadêmico da disciplina Design Web que transforma o protótipo fornecido no enunciado em uma interface responsiva para uma biblioteca digital universitária.
+Projeto acadêmico da disciplina Design Web que transforma o protótipo fornecido no enunciado em uma interface responsiva para uma biblioteca digital universitária e Hospedagem configurada com GitHub Pages.
 
 ## Estrutura do projeto
 
